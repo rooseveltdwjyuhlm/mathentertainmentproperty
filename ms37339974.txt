@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "royal-snowflake-7896.on.fleek.co",
+  "Id": "6c40cf46-e5fa-4fc9-b0e0-a32f3c019c59"
+}
